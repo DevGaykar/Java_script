@@ -26,3 +26,4 @@ Its converts string into number and then compers it
 
 // "===" -> Its  strict check it won't change the data-type for comparison
 console.log("2" === 2);
+console.log("2"==2);
